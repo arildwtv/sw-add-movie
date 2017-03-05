@@ -3,7 +3,7 @@ import CharacterPickListItemContainer from '../containers/CharacterPickListItemC
 
 const CharacterPickList = ({ characterPickList }) =>
   <ul className="character-pick-list">
-    {characterPickList.map(character =>
+    {(characterPickList || []).map(character =>
       <CharacterPickListItemContainer
         key={character.url}
         character={character}

@@ -3,7 +3,7 @@ import StarringCharacterListItemContainer from '../containers/StarringCharacterL
 
 const StarringCharacterList = ({ starringCharacters }) =>
   <ul className="starring-character-list">
-    {starringCharacters.map(character =>
+    {(starringCharacters || []).map(character =>
       <StarringCharacterListItemContainer key={character.url} character={character} />
     )}
   </ul>;
