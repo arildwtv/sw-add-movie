@@ -14,7 +14,7 @@ const MoviePreview = ({ title, synopsis, starringCharacters }) =>
         <ul className="titles-images">
           {starringCharacters.map(character =>
             <li key={character.url}>
-              <img src={character.imageUrl} />
+              <img src={character.imageUrl} alt={character.name} />
             </li>
           )}
         </ul>
