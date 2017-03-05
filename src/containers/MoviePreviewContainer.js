@@ -2,9 +2,7 @@ import { connect } from 'react-redux';
 import MoviePreview from '../components/MoviePreview';
 
 const mapStateToProps = state => ({
-  title: state.movie.title,
-  synopsis: state.movie.synopsis,
-  starringCharacters: state.movie.starringCharacters
+  // TODO
 });
 
 const MoviePreviewContainer = connect(mapStateToProps)(MoviePreview);
