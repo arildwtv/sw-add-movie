@@ -1,0 +1,1032 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/14/",
+      "http://swapi.co/api/vehicles/30/"
+    ],
+    "starships": [
+      "http://swapi.co/api/starships/12/",
+      "http://swapi.co/api/starships/22/"
+    ],
+    "created": "2014-12-09T13:50:51.644000Z",
+    "edited": "2014-12-20T21:17:56.891000Z",
+    "url": "http://swapi.co/api/people/1/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW-xqFcstpXV6Dy3Nax-rxnOoOct6ufXXmiccEG9ljZlGOpK3DDd-K918"
+  },
+  {
+    "name": "C-3PO",
+    "height": "167",
+    "mass": "75",
+    "hair_color": "n/a",
+    "skin_color": "gold",
+    "eye_color": "yellow",
+    "birth_year": "112BBY",
+    "gender": "n/a",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/2/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:10:51.357000Z",
+    "edited": "2014-12-20T21:17:50.309000Z",
+    "url": "http://swapi.co/api/people/2/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW599WborDRWo65WiwHizUflZQyaLDhUNmE1cc7jZiIQk0DeCmfD7lMw"
+  },
+  {
+    "name": "R2-D2",
+    "height": "96",
+    "mass": "32",
+    "hair_color": "n/a",
+    "skin_color": "white, blue",
+    "eye_color": "red",
+    "birth_year": "33BBY",
+    "gender": "n/a",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/2/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:11:50.376000Z",
+    "edited": "2014-12-20T21:17:50.311000Z",
+    "url": "http://swapi.co/api/people/3/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseSOKg-QCcNyyDCbrl-72ZUlpqh6T0KQRyqArvey2Bge3XCuOZ4bgU6bUIg"
+  },
+  {
+    "name": "Darth Vader",
+    "height": "202",
+    "mass": "136",
+    "hair_color": "none",
+    "skin_color": "white",
+    "eye_color": "yellow",
+    "birth_year": "41.9BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/13/"
+    ],
+    "created": "2014-12-10T15:18:20.704000Z",
+    "edited": "2014-12-20T21:17:50.313000Z",
+    "url": "http://swapi.co/api/people/4/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfbLWDm7tGiL1_NtyaANCYib-dBbvCP2FEiBktss7x5CMTVaHyH_I8MEZr"
+  },
+  {
+    "name": "Leia Organa",
+    "height": "150",
+    "mass": "49",
+    "hair_color": "brown",
+    "skin_color": "light",
+    "eye_color": "brown",
+    "birth_year": "19BBY",
+    "gender": "female",
+    "homeworld": "http://swapi.co/api/planets/2/",
+    "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/30/"
+    ],
+    "starships": [],
+    "created": "2014-12-10T15:20:09.791000Z",
+    "edited": "2014-12-20T21:17:50.315000Z",
+    "url": "http://swapi.co/api/people/5/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShhY16PRhqHQHkjz7Fh01e0IHV87BdVDEeaJYBTN_fW8H1frdK24Or2b8"
+  },
+  {
+    "name": "Owen Lars",
+    "height": "178",
+    "mass": "120",
+    "hair_color": "brown, grey",
+    "skin_color": "light",
+    "eye_color": "blue",
+    "birth_year": "52BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:52:14.024000Z",
+    "edited": "2014-12-20T21:17:50.317000Z",
+    "url": "http://swapi.co/api/people/6/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR30oxL5fE91fQoc2Z_WtEqJ8YbLd_NGE4nfe2iW-fOI7ThrMUcngZ21yk"
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "height": "165",
+    "mass": "75",
+    "hair_color": "brown",
+    "skin_color": "light",
+    "eye_color": "blue",
+    "birth_year": "47BBY",
+    "gender": "female",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:53:41.121000Z",
+    "edited": "2014-12-20T21:17:50.319000Z",
+    "url": "http://swapi.co/api/people/7/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZZ6MUpl1Xo3usWfaQq1g1uON4zM36GL2cXpPQF5vwSJAGhgMZUirxFWA"
+  },
+  {
+    "name": "R5-D4",
+    "height": "97",
+    "mass": "32",
+    "hair_color": "n/a",
+    "skin_color": "white, red",
+    "eye_color": "red",
+    "birth_year": "unknown",
+    "gender": "n/a",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/2/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:57:50.959000Z",
+    "edited": "2014-12-20T21:17:50.321000Z",
+    "url": "http://swapi.co/api/people/8/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ETscFxBwEOD-FaRgMQh5epdJdUlblfrfDp3CvUlG67TIVKjAOCDWKw"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "height": "183",
+    "mass": "84",
+    "hair_color": "black",
+    "skin_color": "light",
+    "eye_color": "brown",
+    "birth_year": "24BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/12/"
+    ],
+    "created": "2014-12-10T15:59:50.509000Z",
+    "edited": "2014-12-20T21:17:50.323000Z",
+    "url": "http://swapi.co/api/people/9/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBue0sCph2MrUET0MH6ZSHWmjTQEDgSND9Dq3Zid_cebjJ_G5v20tPkn6wZg"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "height": "182",
+    "mass": "77",
+    "hair_color": "auburn, white",
+    "skin_color": "fair",
+    "eye_color": "blue-gray",
+    "birth_year": "57BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/20/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/38/"
+    ],
+    "starships": [
+      "http://swapi.co/api/starships/48/",
+      "http://swapi.co/api/starships/59/",
+      "http://swapi.co/api/starships/64/",
+      "http://swapi.co/api/starships/65/",
+      "http://swapi.co/api/starships/74/"
+    ],
+    "created": "2014-12-10T16:16:29.192000Z",
+    "edited": "2014-12-20T21:17:50.325000Z",
+    "url": "http://swapi.co/api/people/10/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSP9Dtu3-Fz3IckGdf43naEa2uaFaQ63NT47xlaHNHTg3ATSuf1-PlIlG5"
+  },
+  {
+    "name": "Anakin Skywalker",
+    "height": "188",
+    "mass": "84",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "41.9BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/1/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/44/",
+      "http://swapi.co/api/vehicles/46/"
+    ],
+    "starships": [
+      "http://swapi.co/api/starships/59/",
+      "http://swapi.co/api/starships/65/",
+      "http://swapi.co/api/starships/39/"
+    ],
+    "created": "2014-12-10T16:20:44.310000Z",
+    "edited": "2014-12-20T21:17:50.327000Z",
+    "url": "http://swapi.co/api/people/11/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZZ6MUpl1Xo3usWfaQq1g1uON4zM36GL2cXpPQF5vwSJAGhgMZUirxFWA"
+  },
+  {
+    "name": "Wilhuff Tarkin",
+    "height": "180",
+    "mass": "unknown",
+    "hair_color": "auburn, grey",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "64BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/21/",
+    "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T16:26:56.138000Z",
+    "edited": "2014-12-20T21:17:50.330000Z",
+    "url": "http://swapi.co/api/people/12/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqln8SH7mk2U-ZbXR6uXZ9PLjV7_4aJ4SceXK2Okw7ORHz2ULimbeESil"
+  },
+  {
+    "name": "Chewbacca",
+    "height": "228",
+    "mass": "112",
+    "hair_color": "brown",
+    "skin_color": "unknown",
+    "eye_color": "blue",
+    "birth_year": "200BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/14/",
+    "films": [
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/3/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/19/"
+    ],
+    "starships": [
+      "http://swapi.co/api/starships/10/",
+      "http://swapi.co/api/starships/22/"
+    ],
+    "created": "2014-12-10T16:42:45.066000Z",
+    "edited": "2014-12-20T21:17:50.332000Z",
+    "url": "http://swapi.co/api/people/13/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl-DQrHaN7iJM4eNTCMHrsnleXgs_a-GMfrewoZnkyztASdKX4sPFKIKk"
+  },
+  {
+    "name": "Han Solo",
+    "height": "180",
+    "mass": "80",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "brown",
+    "birth_year": "29BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/22/",
+    "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/10/",
+      "http://swapi.co/api/starships/22/"
+    ],
+    "created": "2014-12-10T16:49:14.582000Z",
+    "edited": "2014-12-20T21:17:50.334000Z",
+    "url": "http://swapi.co/api/people/14/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaMT4oWB6TcJPMQHkQw-CzAOPJLHh7rHjhPshWu5aXdvT5EQo3JrVbtpk1Q"
+  },
+  {
+    "name": "Greedo",
+    "height": "173",
+    "mass": "74",
+    "hair_color": "n/a",
+    "skin_color": "green",
+    "eye_color": "black",
+    "birth_year": "44BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/23/",
+    "films": [
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/4/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T17:03:30.334000Z",
+    "edited": "2014-12-20T21:17:50.336000Z",
+    "url": "http://swapi.co/api/people/15/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpMrwqmbnRW8avb9St9OI3xFO70_eusy0Mb9jHc8LSOosS-rB7wkix73An"
+  },
+  {
+    "name": "Jabba Desilijic Tiure",
+    "height": "175",
+    "mass": "1,358",
+    "hair_color": "n/a",
+    "skin_color": "green-tan, brown",
+    "eye_color": "orange",
+    "birth_year": "600BBY",
+    "gender": "hermaphrodite",
+    "homeworld": "http://swapi.co/api/planets/24/",
+    "films": [
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/5/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T17:11:31.638000Z",
+    "edited": "2014-12-20T21:17:50.338000Z",
+    "url": "http://swapi.co/api/people/16/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqqmDF4Nzi5XiHZ4if7nuZ0-2cn5IMipPrCEU5W5KUnTv1U6jkDAPs8hy3A"
+  },
+  {
+    "name": "Wedge Antilles",
+    "height": "170",
+    "mass": "77",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "hazel",
+    "birth_year": "21BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/22/",
+    "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/",
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/14/"
+    ],
+    "starships": [
+      "http://swapi.co/api/starships/12/"
+    ],
+    "created": "2014-12-12T11:08:06.469000Z",
+    "edited": "2014-12-20T21:17:50.341000Z",
+    "url": "http://swapi.co/api/people/18/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq5qvvV2w_dgO85rwLlsMd43WTzniEQabGldCIgzEvSlwIDnfMaN9LEw"
+  },
+  {
+    "name": "Jek Tono Porkins",
+    "height": "180",
+    "mass": "110",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/26/",
+    "films": [
+      "http://swapi.co/api/films/1/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/12/"
+    ],
+    "created": "2014-12-12T11:16:56.569000Z",
+    "edited": "2014-12-20T21:17:50.343000Z",
+    "url": "http://swapi.co/api/people/19/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_BX6HbS1XpKkWa5dyVR2-EmmbNUDtsO5WBz1dcIAwqIh2OhdKa1T9t9o"
+  },
+  {
+    "name": "Yoda",
+    "height": "66",
+    "mass": "17",
+    "hair_color": "white",
+    "skin_color": "green",
+    "eye_color": "brown",
+    "birth_year": "896BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/28/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/6/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-15T12:26:01.042000Z",
+    "edited": "2014-12-20T21:17:50.345000Z",
+    "url": "http://swapi.co/api/people/20/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIZxVkMqmuHKfIJlxIurktgkHyiV9G1lAC909cX8S868-HQuGmJh15SjuK"
+  },
+  {
+    "name": "Palpatine",
+    "height": "170",
+    "mass": "75",
+    "hair_color": "grey",
+    "skin_color": "pale",
+    "eye_color": "yellow",
+    "birth_year": "82BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-15T12:48:05.971000Z",
+    "edited": "2014-12-20T21:17:50.347000Z",
+    "url": "http://swapi.co/api/people/21/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIglw84QPBShivEZdbO0Vw-iV-guv_9KdXdK8iW0nsi711Cf5GXjwDKhkf"
+  },
+  {
+    "name": "Boba Fett",
+    "height": "183",
+    "mass": "78.2",
+    "hair_color": "black",
+    "skin_color": "fair",
+    "eye_color": "brown",
+    "birth_year": "31.5BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/10/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/21/"
+    ],
+    "created": "2014-12-15T12:49:32.457000Z",
+    "edited": "2014-12-20T21:17:50.349000Z",
+    "url": "http://swapi.co/api/people/22/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgW6PgoAn2hMsq7CLkf7hKZG0xRZibkpwBlOUImqXpP4EvK9NWnplz33li"
+  },
+  {
+    "name": "IG-88",
+    "height": "200",
+    "mass": "140",
+    "hair_color": "none",
+    "skin_color": "metal",
+    "eye_color": "red",
+    "birth_year": "15BBY",
+    "gender": "none",
+    "homeworld": "http://swapi.co/api/planets/28/",
+    "films": [
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/2/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-15T12:51:10.076000Z",
+    "edited": "2014-12-20T21:17:50.351000Z",
+    "url": "http://swapi.co/api/people/23/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSd3ofYbrjBR2GJRkLVN5ipXJlUA0_QBnzOVm0MPahmmoZONSgWPd2I0g"
+  },
+  {
+    "name": "Bossk",
+    "height": "190",
+    "mass": "113",
+    "hair_color": "none",
+    "skin_color": "green",
+    "eye_color": "red",
+    "birth_year": "53BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/29/",
+    "films": [
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/7/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-15T12:53:49.297000Z",
+    "edited": "2014-12-20T21:17:50.355000Z",
+    "url": "http://swapi.co/api/people/24/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg4hwjXi7Ve2cSroDELQ1aYALqrxOwmvuiz_lobGiGCuMzBxN24yClpTTV"
+  },
+  {
+    "name": "Lando Calrissian",
+    "height": "177",
+    "mass": "79",
+    "hair_color": "black",
+    "skin_color": "dark",
+    "eye_color": "brown",
+    "birth_year": "31BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/30/",
+    "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/10/"
+    ],
+    "created": "2014-12-15T12:56:32.683000Z",
+    "edited": "2014-12-20T21:17:50.357000Z",
+    "url": "http://swapi.co/api/people/25/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY9NugknA1hWVJsETiLo2tIYi0aaiBC5wbKq-YNYXy-qyA598OzhXEd44w"
+  },
+  {
+    "name": "Lobot",
+    "height": "175",
+    "mass": "79",
+    "hair_color": "none",
+    "skin_color": "light",
+    "eye_color": "blue",
+    "birth_year": "37BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/6/",
+    "films": [
+      "http://swapi.co/api/films/2/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-15T13:01:57.178000Z",
+    "edited": "2014-12-20T21:17:50.359000Z",
+    "url": "http://swapi.co/api/people/26/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvapmq-bKO80Ie_Og8DHTtGHyti00k0UzulZxuD8kq043YnmVCuTM_Q4dC"
+  },
+  {
+    "name": "Ackbar",
+    "height": "180",
+    "mass": "83",
+    "hair_color": "none",
+    "skin_color": "brown mottle",
+    "eye_color": "orange",
+    "birth_year": "41BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/31/",
+    "films": [
+      "http://swapi.co/api/films/3/",
+      "http://swapi.co/api/films/7/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/8/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-18T11:07:50.584000Z",
+    "edited": "2014-12-20T21:17:50.362000Z",
+    "url": "http://swapi.co/api/people/27/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlOdpnvhQR4p4LCn0MMo4k5Jtt3oe6Pi8ln1bvI_PfOF5mcreUo905Y1gA"
+  },
+  {
+    "name": "Mon Mothma",
+    "height": "150",
+    "mass": "unknown",
+    "hair_color": "auburn",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "48BBY",
+    "gender": "female",
+    "homeworld": "http://swapi.co/api/planets/32/",
+    "films": [
+      "http://swapi.co/api/films/3/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-18T11:12:38.895000Z",
+    "edited": "2014-12-20T21:17:50.364000Z",
+    "url": "http://swapi.co/api/people/28/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2JIw0osdND2jcz5P64R9sfn9QmQD0hueqecxxQ2n5_3DDe1nNc47PKayq"
+  },
+  {
+    "name": "Arvel Crynyd",
+    "height": "unknown",
+    "mass": "unknown",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "brown",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/28/",
+    "films": [
+      "http://swapi.co/api/films/3/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/28/"
+    ],
+    "created": "2014-12-18T11:16:33.020000Z",
+    "edited": "2014-12-20T21:17:50.367000Z",
+    "url": "http://swapi.co/api/people/29/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFUXaM6jFR2nXbgcYeyyvvs2yaBr3NTaxRXhOpzGxHPyCelWN0qWGusg"
+  },
+  {
+    "name": "Wicket Systri Warrick",
+    "height": "88",
+    "mass": "20",
+    "hair_color": "brown",
+    "skin_color": "brown",
+    "eye_color": "brown",
+    "birth_year": "8BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/7/",
+    "films": [
+      "http://swapi.co/api/films/3/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/9/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-18T11:21:58.954000Z",
+    "edited": "2014-12-20T21:17:50.369000Z",
+    "url": "http://swapi.co/api/people/30/",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJxQaWdvCOoPfQjlNhqrjNXBPJ6KuP-a4FKyGy7bE4jNFNkh-EtzWt856pmw"
+  },
+  {
+    "name": "Nien Nunb",
+    "height": "160",
+    "mass": "68",
+    "hair_color": "none",
+    "skin_color": "grey",
+    "eye_color": "black",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/33/",
+    "films": [
+      "http://swapi.co/api/films/3/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/10/"
+    ],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/10/"
+    ],
+    "created": "2014-12-18T11:26:18.541000Z",
+    "edited": "2014-12-20T21:17:50.371000Z",
+    "url": "http://swapi.co/api/people/31/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Bgi2io0KNtdvJM2_VToRK2QeYiFaa8ixZTnkYJoWV5QLK8kkEONq7A"
+  },
+  {
+    "name": "Qui-Gon Jinn",
+    "height": "193",
+    "mass": "89",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "92BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/28/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [
+      "http://swapi.co/api/vehicles/38/"
+    ],
+    "starships": [],
+    "created": "2014-12-19T16:54:53.618000Z",
+    "edited": "2014-12-20T21:17:50.375000Z",
+    "url": "http://swapi.co/api/people/32/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFHYg-rBfvA76wAmZxvGmdqe1bpJNiNxGWUIk-yqCjCcwEGH9Do23TnJjx"
+  },
+  {
+    "name": "Nute Gunray",
+    "height": "191",
+    "mass": "90",
+    "hair_color": "none",
+    "skin_color": "mottled green",
+    "eye_color": "red",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/18/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/",
+      "http://swapi.co/api/films/6/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/11/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:05:57.357000Z",
+    "edited": "2014-12-20T21:17:50.377000Z",
+    "url": "http://swapi.co/api/people/33/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqIJyHA2h-DwsdKNK-ZTO195cBLUzole933c03PidzcDsDp5On-5rmmHTumg"
+  },
+  {
+    "name": "Finis Valorum",
+    "height": "170",
+    "mass": "unknown",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "91BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/9/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/1/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:21:45.915000Z",
+    "edited": "2014-12-20T21:17:50.379000Z",
+    "url": "http://swapi.co/api/people/34/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReR5vDpcKSKg80XS688H92MiIleCBrOSBGh8RqLJyYOfOCaTi0AXJHM-a7"
+  },
+  {
+    "name": "Jar Jar Binks",
+    "height": "196",
+    "mass": "66",
+    "hair_color": "none",
+    "skin_color": "orange",
+    "eye_color": "orange",
+    "birth_year": "52BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/12/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:29:32.489000Z",
+    "edited": "2014-12-20T21:17:50.383000Z",
+    "url": "http://swapi.co/api/people/36/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRPrIaXsKrgO74_VBvqhbwzVf0qbLPdQQXSeqtcjx9qO0778MC8USpeOs"
+  },
+  {
+    "name": "Roos Tarpals",
+    "height": "224",
+    "mass": "82",
+    "hair_color": "none",
+    "skin_color": "grey",
+    "eye_color": "orange",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/12/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:32:56.741000Z",
+    "edited": "2014-12-20T21:17:50.385000Z",
+    "url": "http://swapi.co/api/people/37/",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQRyd-k_Y1hPmGbXIZQ-OWAuPmn4tJIIxIpzn8ZyiMYLC5-3ZGeNuO3mBrOQ"
+  },
+  {
+    "name": "Rugor Nass",
+    "height": "206",
+    "mass": "unknown",
+    "hair_color": "none",
+    "skin_color": "green",
+    "eye_color": "orange",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/12/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:33:38.909000Z",
+    "edited": "2014-12-20T21:17:50.388000Z",
+    "url": "http://swapi.co/api/people/38/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmg6IY8sQ5xClqURDbM--ycVog5l4zpXV5SEq9sq_1rTOng9frjo6Qgn7O4A"
+  },
+  {
+    "name": "Ric Olié",
+    "height": "183",
+    "mass": "unknown",
+    "hair_color": "brown",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [
+      "http://swapi.co/api/starships/40/"
+    ],
+    "created": "2014-12-19T17:45:01.522000Z",
+    "edited": "2014-12-20T21:17:50.392000Z",
+    "url": "http://swapi.co/api/people/39/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeYC0D-cm6H99vAA5dCHioZ-BGjo8Dbc60jRTuAlVOql0vZqRROui60w"
+  },
+  {
+    "name": "Watto",
+    "height": "137",
+    "mass": "unknown",
+    "hair_color": "black",
+    "skin_color": "blue, grey",
+    "eye_color": "yellow",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/34/",
+    "films": [
+      "http://swapi.co/api/films/5/",
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/13/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:48:54.647000Z",
+    "edited": "2014-12-20T21:17:50.395000Z",
+    "url": "http://swapi.co/api/people/40/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ngB_Q2W_6tSS2PrKxMnpQTH0hrEBm0FYfQ4TbPNtnCOXA1XwxmA69AU"
+  },
+  {
+    "name": "Sebulba",
+    "height": "112",
+    "mass": "40",
+    "hair_color": "none",
+    "skin_color": "grey, red",
+    "eye_color": "orange",
+    "birth_year": "unknown",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/35/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [
+      "http://swapi.co/api/species/14/"
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:53:02.586000Z",
+    "edited": "2014-12-20T21:17:50.397000Z",
+    "url": "http://swapi.co/api/people/41/",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4ZUNyYaxHN3NkcjitfR1fqcKAUJBHnuD-cw1Xz8VIQ0R3IN49dLV1BPyh_w"
+  },
+  {
+    "name": "Quarsh Panaka",
+    "height": "183",
+    "mass": "unknown",
+    "hair_color": "black",
+    "skin_color": "dark",
+    "eye_color": "brown",
+    "birth_year": "62BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.co/api/planets/8/",
+    "films": [
+      "http://swapi.co/api/films/4/"
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-19T17:55:43.348000Z",
+    "edited": "2014-12-20T21:17:50.399000Z",
+    "url": "http://swapi.co/api/people/42/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmg6IY8sQ5xClqURDbM--ycVog5l4zpXV5SEq9sq_1rTOng9frjo6Qgn7O4A"
+  }
+]
