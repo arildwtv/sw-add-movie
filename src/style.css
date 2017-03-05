@@ -52,6 +52,29 @@ a {
   text-decoration: none;
 }
 
+button {
+  display: block;
+  background: #eb1e64;
+  border: 2px solid #F56293;
+  border-radius: 4px;
+  padding: .4rem 1rem;
+  color: #fff;
+  font-family: 'Roboto', 'sans-serif';
+  font-size: .8rem;
+  cursor: pointer;
+  transition: all .1s ease-in;
+}
+
+button:focus {
+  outline: none;
+  background: #BF2155;
+}
+
+button:active {
+  transform: translateY(1px) scale(.9, .9);
+  background: #BF2155;
+}
+
 input[type=text], textarea {
   background: #374356;
   border: 1px solid #8891a0;
